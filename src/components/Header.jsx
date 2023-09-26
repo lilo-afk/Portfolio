@@ -1,6 +1,6 @@
 import styled from "styled-components";
-import Logo from "./logo";
-import Links from "./links";
+import Logo from "./Logo";
+import Links from "./Links";
 
 const TagHeader = styled.header`
   display: flex;
